@@ -31,7 +31,7 @@ pip install pyppeteer beautifulsoup4
 
 ### Create `interesting_packages.json`
 
-Define software to monitor (by substring match):
+Define software you wish to monitor (by substring match):
 
 ```json
 ["python", "firefox", "vlc", "7-zip", "notepad++"]
